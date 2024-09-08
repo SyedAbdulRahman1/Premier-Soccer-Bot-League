@@ -7,7 +7,7 @@ Premier Soccer Bot League project involved designing, building, and competing wi
 This repository contains all the design files, code, and documentation for the Premier Soccer Bot League competition. Our team designed and built a soccer-playing robot that competed against others, securing second place out of seventeen teams.
 
 ## Design
-The robot was designed using SolidWorks, focusing on durability and optimal movement strategies. The 3D models included in the Designs folder provide a detailed view of the mechanical components used.
+The robot was designed using SolidWorks, focusing on durability and optimal movement strategies. The 3D models included in the Designs folder provide a detailed view of the mechanical components used. Use the following link to view the design. https://3dviewer.net/
 
 ## Control System
 The control system was developed using an Arduino board, enabling real-time responsiveness and agility on the field. The code, available in the Code folder, includes motor control algorithms and Bluetooth connectivity setups for remote operation through a custom mobile app.
